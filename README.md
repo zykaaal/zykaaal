@@ -10,7 +10,6 @@ My Discord Acc: Ψ zykaaal.#0093
   <a href="https://github.com/zykaaal" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/851886800107995188)](https://discord.com/users/851886800107995188)
 
 
 
