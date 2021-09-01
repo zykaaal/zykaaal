@@ -20,6 +20,6 @@ My Discord Acc: Ψ zykaaal.#0093
 </p>
 <h3 align="left">🌊 Discord Status:</h3>
 <p align="left">
-<img src ="https://lanyard-profile-readme.vercel.app/api/851886800107995188" width="%100" height"150px" />
+<img src="https://lanyard-profile-readme.vercel.app/api/851886800107995188" width="%100" height"150px" />
      </p>
 
