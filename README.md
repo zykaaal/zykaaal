@@ -1,7 +1,7 @@
 Hi there , I'm zykaaal.👋 <img src="https://komarev.com/ghpvc/?username=zykaaal&color=00ff54"/>
 
 <p align="left"></p>
-My Discord Acc: Ψ zykaaal.#0093
+My Discord Acc: zykaaal#2023
 
 
 <h3>Social Media</h3>
