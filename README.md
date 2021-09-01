@@ -18,6 +18,8 @@ My Discord Acc: Ψ zykaaal.#0093
    <img src="https://github-readme-stats.vercel.app/api?username=zykaaal&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zykaaal&layout=compact&show_icons=true&theme=dark&hide_border=true"width="%100" height="150px" />
 </p>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/851886800107995188)](https://discord.com/users/851886800107995188)
+<h3 align="left">🌊 Discord Status:</h3>
+<p align="left">
+<img src ="https://lanyard-profile-readme.vercel.app/api/851886800107995188" width="%100" height"150px" />
+     </p>
 
